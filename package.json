@@ -14,9 +14,13 @@
     "restaurant",
     "api"
   ],
-  "author": "",
+  "author": "Yuvraj",
   "license": "ISC",
   "type": "commonjs",
+  "engines": {
+    "node": ">=16.0.0",
+    "npm": ">=8.0.0"
+  },
   "dependencies": {
     "bcryptjs": "^3.0.3",
     "dotenv": "^17.4.2",
